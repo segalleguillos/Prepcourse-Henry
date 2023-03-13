@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-este es un repositorio prueba de Henry
+Este proyecto es una prueba de como copiar repositorio desde github y llevarlo a la pc
